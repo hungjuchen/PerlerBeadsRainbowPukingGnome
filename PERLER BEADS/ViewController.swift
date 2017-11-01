@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  PERLER BEADS
 //
-//  Created by Victoria on 2017/10/30.
+//  Created by Hung-Ju Chen on 2017/10/30.
 //
 
 import UIKit
